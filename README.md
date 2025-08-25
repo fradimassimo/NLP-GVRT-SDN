@@ -1,6 +1,6 @@
 # NLP-GVRT-SDN
 
-This repository provides instructions for reproducing the results presented in the paper: **"Evaluation of the GVRT Algorithm for Domain Generalization on 3 domains of DomainNet"**.
+This repository provides instructions for reproducing the results presented in the paper: **"Assessing GVRT Performance for Domain Generalization Across Three DomainNet Domains"**.
 
 ## Prerequisites
 
