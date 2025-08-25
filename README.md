@@ -75,7 +75,7 @@ python -m domainbed.scripts.sweep launch \
 
 - **Hardware Requirements**: Adjust `N_WORKERS` based on your system's CPU cores and available memory
 - **GPU Memory**: Ensure sufficient GPU memory is available for the specified batch sizes
-- **Training Time**: The sweep with 5 hyperparameters and 3 trials may take several hours to complete
+- **Training Time**: The sweep with 5 hyperparameter configurations and 3 trials each may require several hours, or even days, to complete depending on the computational resources available.
 
 ## Results
 
